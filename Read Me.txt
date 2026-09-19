@@ -1,0 +1,32 @@
+News Portal
+by Boa Manuel
+
+News Portal Project using PHP and MySQL is a web-based application. It is a dynamic system. It can be maintain and changed easily because it is based on the database. It＊s contain web pages that are generated in real-time. These pages include Web scripting code, such as PHP. It is fully secured from unauthorized access. In a word In a word it can say that our Online News Portal website is a completely dynamic website.
+
+News Portal Project Requirements
+Project Name: News Portal
+Language Used: PHP7.x
+Database: MySQL 5.x
+User Interface :Design	HTML, AJAX,JQUERY, JAVASCRIPT
+
+Project Modules
+Newsportal project divided into three modules
+
+User Module
+Admin Module
+Sub-Admin
+User module
+Anyone can read the news and also search for particular news. The reader can leave comments on the particular news.
+
+Admin Module
+Secure admin login system
+Admin Dashboard: In this section admin can view, listed categories & sub categories, total published news & trashed news.
+Sub-admin: In this section, admin can add/edit/delete sub-admin.
+Category 每 In this section admin can add/update/delete the category. Admin can also restore deleted category.
+Sub- Category 每 In this section admin can add/update/delete the Subcategory. Admin can also restore deleted Subcategory.
+Post 每 Admin can add /update / delete news posts. admin can also view deleted news post in trash post section and restore deleted posts.
+Pages 每 Admin can manage the contact of about us and contact us page.
+Comments 每 Admin can approve/ unapproved / delete reader comments.
+
+Sub-Admin Module
+Sub-Admin and Admin features are the same except Sub-Admin creation. Sub-Admin can＊t create the Sub-Admins.
